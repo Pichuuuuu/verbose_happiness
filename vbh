@@ -9,7 +9,6 @@ tab = PrettyTable()
 tab.field_names = ["Nom", "Ville", "Date", "Diplome", "Académie"]
 
 def banner():
-    os.system("clear")
     print("""\033[1;31;60m
                       ___.                         .__                         .__                             
     ___  __ __________\_ |__   ____  ______ ____   |  |__ _____  ______ ______ |__| ____   ____   ______ ______
