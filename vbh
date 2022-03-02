@@ -54,7 +54,7 @@ if len(sys.argv) >= 2:
         print("\033[1;32;60mdone!\033[0m")
     print(tab)
 else:
-    print("use -> run.py [target] or run.py [target] [date]")
+    print("use -> vbh [target] or vbh [target] [date]")
     print("target format -> 'nom' or 'nom prenom'")
     print("date format -> YYYY")
     print("\033[1;31;60moldest date is 2007!\033[0m")
